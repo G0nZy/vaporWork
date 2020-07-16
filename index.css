@@ -1,0 +1,72 @@
+
+
+
+
+
+body{
+
+background-color: #009999;
+
+}
+
+
+#head {
+
+color: white;
+text-align: center;
+text-decoration-style: wavy;
+
+}
+
+
+
+#backless {
+
+
+
+background-image: url('https://cms-assets.tutsplus.com/uploads/users/849/posts/27587/image/waterfall_texture.jpg');
+color: white;
+text-align: center;
+padding-top: 15px;
+padding-bottom: 55px;
+font-size: 25px;
+margin-left: 150px;
+margin-right: 150px;
+
+}
+
+
+#topPic {
+
+width: 150px;
+height: 150px;
+
+
+
+}
+
+#rightPic {
+width: 150px;
+height: 150px;
+float: right;
+
+
+
+}
+
+#wet {
+
+background-image: url(https://media0.giphy.com/media/xTiTnrfZfRPJ520yly/giphy.gif);
+color: white;
+
+padding-top: 150px;
+padding-bottom: 150px;
+padding-left: 50px;
+
+
+    
+}
+
+
+
+
